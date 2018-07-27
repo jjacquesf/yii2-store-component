@@ -1,0 +1,23 @@
+{
+    "name": "jjacquesf/yii2storecomponent",
+    "description": "Store shoppingcart yii2 component.",
+    "keywords": ["yii2", "ecommerce"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jorge Jacques",
+            "email": "jhackes@gmail.com"
+        }
+    ],
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "jjacquesf\\yii2storecomponent\\": "src/"
+        }
+    }
+}
