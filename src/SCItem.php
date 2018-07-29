@@ -1,6 +1,6 @@
 <?php 
 
-namespace jjacquesf\yii2storecomponent;
+namespace jjacquesf\yii2\storecomponent;
 
 use Yii;
 use yii\base\Object;

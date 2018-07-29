@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jjacquesf\\yii2storecomponent\\": "src/"
+            "jjacquesf\\yii2\\storecomponent\\": "src/"
         }
     }
 }
